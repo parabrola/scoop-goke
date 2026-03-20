@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/parabrola/goke/releases/download/0.3.0/goke_windows_amd64.tar.gz",
+            "url": "https://github.com/parabrola/goke/releases/download/0.3.1/goke_windows_amd64.zip",
             "bin": [
                 "goke.exe"
             ],
-            "hash": "b94624376dfedd2acd922b1d2f62be6c0069a82acf077cc6ccf7fd5458dd6a0e"
+            "hash": "3b8646a3168cf0b82b166c2a808ef3eff16095adc279a030193b48492d7fedf1"
         },
         "arm64": {
-            "url": "https://github.com/parabrola/goke/releases/download/0.3.0/goke_windows_arm64.tar.gz",
+            "url": "https://github.com/parabrola/goke/releases/download/0.3.1/goke_windows_arm64.zip",
             "bin": [
                 "goke.exe"
             ],
-            "hash": "d9dc9d43ddad38d9e9211edc5ac9fb80dd04c990faaf764e236a3fe412787c72"
+            "hash": "88cdb22f07617a814626ed94b88db9049f3d213519c075239603398ba2684c91"
         }
     },
     "homepage": "https://github.com/parabrola/goke",
