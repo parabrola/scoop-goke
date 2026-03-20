@@ -1,0 +1,21 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/parabrola/goke/releases/download/0.3.0/goke_windows_amd64.tar.gz",
+            "bin": [
+                "goke.exe"
+            ],
+            "hash": "b94624376dfedd2acd922b1d2f62be6c0069a82acf077cc6ccf7fd5458dd6a0e"
+        },
+        "arm64": {
+            "url": "https://github.com/parabrola/goke/releases/download/0.3.0/goke_windows_arm64.tar.gz",
+            "bin": [
+                "goke.exe"
+            ],
+            "hash": "d9dc9d43ddad38d9e9211edc5ac9fb80dd04c990faaf764e236a3fe412787c72"
+        }
+    },
+    "homepage": "https://github.com/parabrola/goke",
+    "description": "Build automation tool using YAML"
+}
